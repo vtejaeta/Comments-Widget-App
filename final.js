@@ -215,6 +215,7 @@ function deleteComment(e) {
   editFlag = false
 }
 
+// for setting edit flag nad retrieving comment
 function setEditFlag(e) {
   showSuggestion('you can edit your reply here')
 
