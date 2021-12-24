@@ -1,20 +1,18 @@
-# comments-widget-app
+# [Comments Widget App](https://comments-widget-app.vercel.app/)
 
-![comments widget app](https://user-images.githubusercontent.com/65386350/104117775-e5ea7d00-5349-11eb-8dca-b941f397254a.png)
+<img alt="Comments Widget App" src="https://user-images.githubusercontent.com/65386350/104117781-f1d63f00-5349-11eb-86ee-8f86e37692c2.png">
 
-![comments widget app 1](https://user-images.githubusercontent.com/65386350/104117781-f1d63f00-5349-11eb-86ee-8f86e37692c2.png)
+## Overview
+Hello 👋, Welcome to my project of Comments widget app built with HTML, CSS, JavaScript DOM. This allows users to add comments which are nested upto n-level. It has all  features like comment box, post comment, reply to comment, nested comments, edit comment, delete comment. This project helped me understand how tree data structures are used to create nested comments and display it in UI. It was very fun building this project. State of app is preserved using Local Storage.
 
+## How to install this project
 
-### Description: 
-This is comments widget app made with Vanilla JS, HTML, CSS. It has all  features like comment box, post comment, reply to comment, nested comments, edit comment, delete comment. I have also used local storage to persist state of the app. 
+1. Clone the project using the command `git clone https://github.com/vtejaeta/Comments-Widget-App.git`
+2. Move into the file directory you wish to run using `cd {folder_name}`.
+3. Open HTML file using any live-server extension in VS Code.
 
-`To brush up skills on nested data addition, removal and editing, one must try to implement this app.`
+### Questions
 
-### Features to be implemented
-Login functionality to add comment,
-addition of like and dislike comment,
-integrating database with this app
+For questions related to using the project, please reachout to me through
 
-
-### Preview it here 👇
-https://comments-widget-app.vercel.app/
+- [Twitter](https://twitter.com/vtejaeta9493)
